@@ -1,7 +1,4 @@
-Github Demo：
-https://github.com/KenLuChinese/NinePointImage#ninepointimage
-
-# icon
+### icon
 ![nine_point@2x-1.png](http://upload-images.jianshu.io/upload_images/1878171-6ecc817e31493743.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ```
     UIImageView *imageView = [[UIImageView alloc] init];
@@ -23,8 +20,8 @@ https://github.com/KenLuChinese/NinePointImage#ninepointimage
 
 
 
-###### ① 是没有拉伸的效果
-###### ② 是拉伸以后的效果
+### ① 是没有拉伸的效果
+### ② 是拉伸以后的效果
 
 
 
